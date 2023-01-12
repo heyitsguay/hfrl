@@ -1,0 +1,4 @@
+models/
+media/
+.ipynb_checkpoints/
+*.pyc
